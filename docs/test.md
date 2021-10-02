@@ -1,9 +1,8 @@
 ---
-layout: Page
+layout: default
 title: テスト
 permalink: /test/
 ---
-<script src='p5.js'></script>
 <div id='container'></div>
 <script>
 let sketch = function(p) {
