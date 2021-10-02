@@ -4,3 +4,5 @@
 
 layout: home
 ---
+# 目的
+"Computer graphics from scratch" をp5.jlで実装します。
