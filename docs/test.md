@@ -14,5 +14,4 @@ permalink: /test/
   };
   new p5(sketch, 'container');
   </script>
-</body>
 <script src='p5.js'></script>
